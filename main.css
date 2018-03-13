@@ -28,6 +28,7 @@ html {
     background-image: url("img/main.jpg");
     height: 100vh;
     overflow-x: hidden;
+    color: white;
 }
 
 .demo a {
