@@ -14,6 +14,7 @@ html {
     font: 400 20px/1.8 "Lato", sans-serif;
     color: #777;
     overflow-x: hidden;
+    background-color: #444;
 }
 
 .bgimg {
